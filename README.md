@@ -1,4 +1,4 @@
-# AZUBI-AFRICA---DAP-WEEK-2
+# AZUBI-AFRICA-DAP-WEEK-2
 This is my second assignment with Microsoft Excel with Azubi Africa Data Analytics Program
 
 ## Description
@@ -22,3 +22,5 @@ In my own words, I should describe the trend according to the chart you created.
 
 ## Author
 FREDRICK KWABENA BOATENG
+
+[FREDRICK KWABENA BOATENG - INDIVIDUAL PROJECT (WEEK TWO).zip](https://github.com/kwabenaboateng/AZUBI-AFRICA-DAP-WEEK-2/files/10882063/FREDRICK.KWABENA.BOATENG.-.INDIVIDUAL.PROJECT.WEEK.TWO.zip)
