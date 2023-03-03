@@ -2,11 +2,22 @@
 This is my second assignment with Microsoft Excel with Azubi Africa Data Analytics Program
 
 ## Description
-In this project, I was tasked designed a python program for a financial institution to help them in their calculations for loan mortgare.
+Given a Microsoft Excel dataset, I was tasked to do following:
 
-This programs to be designed was required to perform the following:
-1. Request Loan Amount 
-2. Request Interest rate
-3. Request Repayment Period (in years)
-4. Calculate the total amount plus interest payable and the payment duration.
-5. Display the final output.
+1. How many people visited different parks in Colorado state?
+
+2. Justify the choice of your Chart in question 1
+
+3. What are the top 10 states with most visitors?
+
+4. Justify the choice of your Chart in question 3
+
+5. With the aid of a chart, what is the mean value of all visitors?
+
+6. Create ONE chart showing the visitor trend over the years for Boston African American Park. 
+In my own words, I should describe the trend according to the chart you created.
+
+7. Create a different worksheet named Maps and plot all the states against their total number of visitors on a graph.
+
+
+
