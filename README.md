@@ -20,4 +20,5 @@ In my own words, I should describe the trend according to the chart you created.
 7. Create a different worksheet named Maps and plot all the states against their total number of visitors on a graph.
 
 
-
+## Author
+FREDRICK KWABENA BOATENG
